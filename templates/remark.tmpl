@@ -1,0 +1,50 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="arusahni" file="arusahni_helper.tmpl" import="*" />
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%namespace name="base" file="base_helper.tmpl" import="*"/>
+<%namespace name="arusahni" file="arusahni_helper.tmpl" import="*" />
+${set_locale(lang)}
+<!DOCTYPE html>
+<html lang="${lang}">
+<head>
+    ${arusahni.html_head()}
+    <%block name="extra_head">
+    </%block>
+    ${extra_head_data}
+    <style type="text/css">
+        .custom_social {position: fixed; top: 80px; left: 0px; margin: 0px;
+            padding: 0px; z-index: 2147483647;}
+        .custom_social ul li {display: block; text-align: center;
+            margin-top: 10px;}
+        .custom_social a {color: #4E4444; text-decoration: none; opacity: 0.9;
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+            filter: alpha(opacity=70);}
+        .custom_social a:hover, .custom_social a:focus {color: #0088cc;}
+        .custom_social a [class^="icon-"] {-webkit-transition: opacity 0.5s;
+            -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;
+            transition: opacity 0.5s; font-size: 3em;}
+        .custom_social a [class^="icon-"].icon-border {border-width: 3px;
+            -webkit-border-radius: 5px; -moz-border-radius: 5px;
+            border-radius: 5px;}
+    </style>
+    <link href="${abs_link('/assets/css/remark-custom.css')}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    ${post.text()}
+
+    <script src="${abs_link('/assets/js/remark-0.6.4.min.js')}" type="text/javascript"></script>
+    <script type="text/javascript">
+        var slideshow = remark.create();
+    </script>
+
+    <div class="custom_social">
+        <ul>
+            ${arusahni.html_navigation_links()}
+        </ul>
+    </div>
+
+</body>
+</html>
+

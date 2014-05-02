@@ -44,10 +44,12 @@ LOCALE_DEFAULT = 'zh_CN.UTF-8'
 # POSTS are added to feeds, while PAGES are just independent HTML pages.
 POSTS = (
 ("posts/*.md", "posts", "post.tmpl"),
-("posts/*.slide", "posts", "post.tmpl"),
+("posts/*.slide", "posts", "remark.tmpl"),
+("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
 ("stories/*.md", "stories", "story.tmpl"),
+("stories/*.html", "stories", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -57,7 +59,7 @@ FILES_FOLDERS = {'files': '' }
 # A mapping of languages to file-extensions that represent that language.
 COMPILERS = {
 "markdown": ('.md', '.mdown', '.markdown'),
-"slide": ('.slide',),
+"remark": ('.slide',),
 "html": ('.html', '.htm'),
 }
 
@@ -119,6 +121,13 @@ CACHE_FOLDER = 'cache'
 FILTERS = {
     #".jpg": ["jpegoptim --strip-all -m75 -v %s"],
 }
+
+# Compiler to process LESS files.
+LESS_COMPILER = 'lessc'
+
+# A list of options to pass to the LESS compiler.
+# Final command is: LESS_COMPILER LESS_OPTIONS file.less
+LESS_OPTIONS = ["--modify-var=FontAwesomePath='../fonts'"]
 
 # #############################################################################
 # Image Gallery Options

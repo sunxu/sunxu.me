@@ -1,0 +1,10 @@
+[Core]
+Name = slide
+Module = slide
+
+[Documentation]
+Author = Sun Xu
+Version = 0.1
+Website = http://sunxu.me
+Description = Create a new slide.
+

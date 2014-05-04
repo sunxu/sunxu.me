@@ -27,5 +27,6 @@
 
 # Tmp files
 .doit.db.db
+.doit.db
 cache/*
 output/*

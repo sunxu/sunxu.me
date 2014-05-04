@@ -108,7 +108,7 @@ REDIRECTIONS = []
 
 # Commands to execute to deploy. Can be anything
 DEPLOY_COMMANDS = [
-    # "rsync -rav --delete output/ joe@my.site:/srv/www/site"
+    "rsync -rav --delete output/ /var/sunxu.me"
 ]
 
 # Where the output site should be located

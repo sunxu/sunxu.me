@@ -14,7 +14,7 @@ ${set_locale(lang)}
     ${extra_head_data}
     <style type="text/css">
         .custom_social {position: fixed; top: 80px; left: 0px; margin: 0px;
-            padding: 0px; z-index: 2147483647;}
+            padding: 0px; z-index: 1024;}
         .custom_social ul li {display: block; text-align: center;
             margin-top: 10px;}
         .custom_social a {color: #4E4444; text-decoration: none; opacity: 0.9;
@@ -27,6 +27,10 @@ ${set_locale(lang)}
         .custom_social a [class^="icon-"].icon-border {border-width: 3px;
             -webkit-border-radius: 5px; -moz-border-radius: 5px;
             border-radius: 5px;}
+
+        .page_nav {position: fixed; bottom: 10px; left: 10px; right: 10px;
+            margin: 10px; padding: 0px; z-index: 2028;}
+        .page_nav a {color: #4E4444;}
     </style>
     <link href="${abs_link('/assets/css/remark-custom.css')}" rel="stylesheet" type="text/css">
 </head>
@@ -43,6 +47,10 @@ ${set_locale(lang)}
         <ul>
             ${arusahni.html_navigation_links()}
         </ul>
+    </div>
+
+    <div class="page_nav">
+        ${helper.html_pager(post)}
     </div>
 
 </body>

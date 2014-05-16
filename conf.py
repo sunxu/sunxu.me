@@ -259,7 +259,9 @@ EXTRA_HEAD_DATA = """
 """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-BODY_END = ""
+BODY_END = """
+<script src="/assets/js/custom.js" type="text/javascript"></script>
+"""
 
 # Additional metadata that is added to a post when creating a new_post
 ADDITIONAL_METADATA = {}

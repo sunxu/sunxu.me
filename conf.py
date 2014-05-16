@@ -225,7 +225,7 @@ MATHJAX_CONFIG = ""
 # What MarkDown extensions to enable?
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
-# MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite']
+MARKDOWN_EXTENSIONS = ['tables']
 
 # Social buttons
 SOCIAL_BUTTONS_CODE = ""

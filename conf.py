@@ -254,7 +254,9 @@ USE_CDN = False
 
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
-EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+<link rel="stylesheet" type="text/css" href="/assets/css/custom.css">
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 BODY_END = ""

@@ -25,7 +25,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'icon-home'),
-        ('/archive', 'Archives', 'icon-folder-open-alt'),
+        ('/posts', 'Archives', 'icon-folder-open-alt'),
         ('/tags', 'Tags', 'icon-tags'),
         ('/rss.xml', 'RSS', 'icon-rss'),
         ('/stories/about', 'About me', 'icon-user'),
@@ -78,13 +78,13 @@ TAG_PAGES_ARE_INDEXES = False
 INDEX_PATH = ""
 
 # Create per-month archives instead of per-year
-CREATE_MONTHLY_ARCHIVE = True
+CREATE_MONTHLY_ARCHIVE = False
 
 # Create one large archive instead of per-year
 CREATE_SINGLE_ARCHIVE = False
 
 # Final locations for the archives 
-ARCHIVE_PATH = "archive"
+ARCHIVE_PATH = "posts"
 ARCHIVE_FILENAME = "index.html"
 
 # URLs to other posts/pages can take 3 forms:

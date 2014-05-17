@@ -1,0 +1,10 @@
+[Core]
+Name = redirect_directories
+Module = redirect_directories
+
+[Documentation]
+Author = Sun Xu
+Version = 0.1
+Website = http://sunxu.me
+Description = Create redirect pages for directories.
+

@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="920" height="1300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+
+<svg x="0" y="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M176.5,92.5L710.5,92.5C713.5,92.5,715.5,94.5,715.5,97.5L715.5,113.5C715.5,115.5,713.5,118.5,710.5,118.5L176.5,118.5C173.5,118.5,171.5,115.5,171.5,113.5L171.5,97.5C171.5,94.5,173.5,92.5,176.5,92.5ZM176.5,92.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="342" 
+y="110" 
+textLength="176" 
+font-size="14.58" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Applications (Processes)</text>
+
+<path d="M34.5,191.5L138.5,191.5C143.5,191.5,147.5,194.5,147.5,199.5L147.5,347.5C147.5,352.5,143.5,356.5,138.5,356.5L34.5,356.5C29.5,356.5,26.5,352.5,26.5,347.5L26.5,199.5C26.5,194.5,29.5,191.5,34.5,191.5ZM34.5,191.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="52" 
+y="268" 
+textLength="67" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>direct I/O</text>
+
+<text 
+x="43" 
+y="286" 
+textLength="84" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>(O_DIRECT)</text>
+
+<path d="M180.5,191.5L761.5,191.5C766.5,191.5,770.5,195.5,770.5,199.5L770.5,347.5C770.5,352.5,766.5,356.5,761.5,356.5L180.5,356.5C175.5,356.5,171.5,352.5,171.5,347.5L171.5,199.5C171.5,195.5,175.5,191.5,180.5,191.5ZM180.5,191.5" fill="#E6E6E6" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="454" 
+y="210" 
+textLength="32" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>VFS</text>
+
+<path d="M803.5,191.5L884.5,191.5C889.5,191.5,892.5,194.5,892.5,199.5L892.5,347.5C892.5,352.5,889.5,356.5,884.5,356.5L803.5,356.5C798.5,356.5,794.5,352.5,794.5,347.5L794.5,199.5C794.5,194.5,798.5,191.5,803.5,191.5ZM803.5,191.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="825" 
+y="270" 
+textLength="35" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Page</text>
+
+<text 
+x="820" 
+y="289" 
+textLength="45" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Cache</text>
+
+<path d="M770,268L794,268L794,281L770,281L770,268Z" />
+<path d="M715,112L837,112L837,192" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M837.5,180.5L832.5,175.5L837.5,192.5L842.5,175.5ZM837.5,180.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M624.5,650.5L900.5,650.5C905.5,650.5,908.5,654.5,908.5,659.5L908.5,838.5C908.5,842.5,905.5,846.5,900.5,846.5L625.5,846.5C625.5,846.5,616.5,842.5,616.5,838.5L616.5,664.5C616.5,654.5,620.5,651.5,624.5,650.5ZM624.5,650.5" fill="#E6E6E6" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M750.5,820.5L786.5,820.5C789.5,820.5,792.5,823.5,792.5,827.5L792.5,832.5C792.5,836.5,789.5,838.5,786.5,838.5L750.5,838.5C746.5,838.5,743.5,836.5,743.5,832.5L743.5,827.5C743.5,823.5,746.5,820.5,750.5,820.5ZM750.5,820.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="746" 
+y="833" 
+textLength="41" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>nvme</text>
+
+<text 
+x="684" 
+y="667" 
+textLength="183" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>hooked in Device Drivers</text>
+
+<text 
+x="704" 
+y="682" 
+textLength="142" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>(hook in similar like</text>
+
+<text 
+x="702" 
+y="697" 
+textLength="146" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>stacked devices like</text>
+
+<text 
+x="678" 
+y="711" 
+textLength="195" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>mdraid/device mapper do)</text>
+
+<path d="M634.5,747.5L729.5,747.5C735.5,747.5,740.5,752.5,740.5,758.5L740.5,767.5C740.5,773.5,735.5,778.5,729.5,778.5L634.5,778.5C628.5,778.5,623.5,773.5,623.5,767.5L623.5,758.5C623.5,752.5,628.5,747.5,634.5,747.5ZM634.5,747.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="631" 
+y="762" 
+textLength="99" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>iomemory-vsl</text>
+
+<text 
+x="633" 
+y="772" 
+textLength="94" 
+font-size="9.78" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>with module option</text>
+
+<path d="M455,397L513,397C520,397,526,403,526,410L526,421C526,429,520,435,513,435L455,435C448,435,442,429,442,421L442,410C442,403,448,397,455,397ZM455,397" fill="#27B5FF" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="464" 
+y="423" 
+textLength="29" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>LVM</text>
+
+<path d="M222.5,386.5L542.5,386.5C550.5,386.5,556.5,393.5,556.5,400.5L556.5,641.5C556.5,649.5,550.5,655.5,542.5,655.5L222.5,655.5C214.5,655.5,207.5,649.5,207.5,641.5L207.5,400.5C207.5,393.5,214.5,386.5,222.5,386.5ZM222.5,386.5" fill="#E6E6E6" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="316" 
+y="404" 
+textLength="129" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Block I/O Layer</text>
+
+<path d="M225.5,412.5L539.5,412.5C542.5,412.5,544.5,414.5,544.5,417.5L544.5,494.5C544.5,496.5,542.5,498.5,539.5,498.5L225.5,498.5C222.5,498.5,220.5,496.5,220.5,494.5L220.5,417.5C220.5,414.5,222.5,412.5,225.5,412.5ZM225.5,412.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="233" 
+y="427" 
+textLength="246" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>optional stackable devices on top</text>
+
+<text 
+x="233" 
+y="441" 
+textLength="298" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>of “normal” block devices – work on bios</text>
+
+<path d="M268.5,450.5L311.5,450.5C316.5,450.5,320.5,454.5,320.5,458.5L320.5,466.5C320.5,470.5,316.5,474.5,311.5,474.5L268.5,474.5C263.5,474.5,259.5,470.5,259.5,466.5L259.5,458.5C259.5,454.5,263.5,450.5,268.5,450.5ZM268.5,450.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="263" 
+y="467" 
+textLength="51" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>mdraid</text>
+
+<path d="M348.5,450.5L384.5,450.5C391.5,450.5,397.5,455.5,397.5,463.5L397.5,473.5C397.5,481.5,391.5,486.5,384.5,486.5L348.5,486.5C341.5,486.5,335.5,481.5,335.5,473.5L335.5,463.5C335.5,455.5,341.5,450.5,348.5,450.5ZM348.5,450.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="341" 
+y="467" 
+textLength="48" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>device</text>
+
+<text 
+x="336" 
+y="477" 
+textLength="56" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>mapper</text>
+
+<path d="M421.5,450.5L447.5,450.5C452.5,450.5,456.5,453.5,456.5,458.5L456.5,465.5C456.5,470.5,452.5,474.5,447.5,474.5L421.5,474.5C417.5,474.5,413.5,470.5,413.5,465.5L413.5,458.5C413.5,453.5,417.5,450.5,421.5,450.5ZM421.5,450.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="417" 
+y="467" 
+textLength="33" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>drbd</text>
+
+<path d="M475.5,449.5L484.5,449.5C489.5,449.5,493.5,453.5,493.5,458.5L493.5,465.5C493.5,470.5,489.5,474.5,484.5,474.5L475.5,474.5C470.5,474.5,466.5,470.5,466.5,465.5L466.5,458.5C466.5,453.5,470.5,449.5,475.5,449.5ZM475.5,449.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="472" 
+y="462" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<text 
+x="323" 
+y="563" 
+textLength="115" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>I/O Scheduler </text>
+
+<path d="M275.5,570.5L489.5,570.5C490.5,570.5,492.5,571.5,492.5,573.5L492.5,628.5C492.5,630.5,490.5,631.5,489.5,631.5L275.5,631.5C273.5,631.5,272.5,630.5,272.5,628.5L272.5,573.5C272.5,571.5,273.5,570.5,275.5,570.5ZM275.5,570.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="300" 
+y="588" 
+textLength="162" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>maps bios to requests</text>
+
+<path d="M335.5,594.5L391.5,594.5C396.5,594.5,400.5,598.5,400.5,603.5L400.5,610.5C400.5,615.5,396.5,619.5,391.5,619.5L335.5,619.5C330.5,619.5,327.5,615.5,327.5,610.5L327.5,603.5C327.5,598.5,330.5,594.5,335.5,594.5ZM335.5,594.5" fill="#F3F300" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="331" 
+y="612" 
+textLength="63" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>deadline</text>
+
+<path d="M292.5,594.5L312.5,594.5C317.5,594.5,321.5,598.5,321.5,603.5L321.5,610.5C321.5,615.5,317.5,619.5,312.5,619.5L292.5,619.5C288.5,619.5,284.5,615.5,284.5,610.5L284.5,603.5C284.5,598.5,288.5,594.5,292.5,594.5ZM292.5,594.5" fill="#F3F300" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="291" 
+y="611" 
+textLength="22" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>cfq</text>
+
+<path d="M415.5,594.5L446.5,594.5C451.5,594.5,455.5,598.5,455.5,603.5L455.5,610.5C455.5,615.5,451.5,619.5,446.5,619.5L415.5,619.5C410.5,619.5,406.5,615.5,406.5,610.5L406.5,603.5C406.5,598.5,410.5,594.5,415.5,594.5ZM415.5,594.5" fill="#F3F300" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="411" 
+y="611" 
+textLength="36" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>noop</text>
+
+<path d="M10.5,704.5L187.5,704.5C189.5,704.5,190.5,705.5,190.5,707.5L190.5,756.5C190.5,758.5,189.5,759.5,187.5,759.5L10.5,759.5C8.5,759.5,7.5,758.5,7.5,756.5L7.5,707.5C7.5,705.5,8.5,704.5,10.5,704.5ZM10.5,704.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="45" 
+y="717" 
+textLength="105" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>request-based</text>
+
+<text 
+x="15" 
+y="732" 
+textLength="166" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>device mapper targets</text>
+
+<path d="M53.5,737.5L144.5,737.5C148.5,737.5,150.5,740.5,150.5,743.5L150.5,749.5C150.5,752.5,148.5,755.5,144.5,755.5L53.5,755.5C49.5,755.5,46.5,752.5,46.5,749.5L46.5,743.5C46.5,740.5,49.5,737.5,53.5,737.5ZM53.5,737.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="48" 
+y="750" 
+textLength="99" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>dm-multipath</text>
+
+<path d="M232,851L375,851C378,851,380,853,380,856L380,876C380,879,378,881,375,881L232,881C230,881,227,879,227,876L227,856C227,853,230,851,232,851ZM232,851" fill="#CCCCCC" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="240" 
+y="871" 
+textLength="124" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>SCSI mid layer</text>
+
+<path d="M443.5,851.5L499.5,851.5C503.5,851.5,507.5,855.5,507.5,859.5L507.5,867.5C507.5,871.5,503.5,875.5,499.5,875.5L443.5,875.5C438.5,875.5,434.5,871.5,434.5,867.5L434.5,859.5C434.5,855.5,438.5,851.5,443.5,851.5ZM443.5,851.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="436" 
+y="867" 
+textLength="66" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>virtio_blk</text>
+
+<path d="M534.5,851.5L625.5,851.5C629.5,851.5,633.5,855.5,633.5,859.5L633.5,867.5C633.5,871.5,629.5,875.5,625.5,875.5L534.5,875.5C530.5,875.5,526.5,871.5,526.5,867.5L526.5,859.5C526.5,855.5,530.5,851.5,534.5,851.5ZM534.5,851.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="529" 
+y="867" 
+textLength="99" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>iomemory-vsl</text>
+
+<path d="M181,1094L900,1094C903,1094,904,1096,904,1098L904,1171C904,1173,903,1175,900,1175L181,1175C179,1175,177,1173,177,1171L177,1098C177,1096,179,1094,181,1094ZM181,1094" fill="#CCCCCC" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="460" 
+y="1167" 
+textLength="160" 
+font-size="19.56" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Physical devices</text>
+
+<path d="M189.5,1107.5L225.5,1107.5C229.5,1107.5,232.5,1110.5,232.5,1114.5L232.5,1119.5C232.5,1123.5,229.5,1126.5,225.5,1126.5L189.5,1126.5C186.5,1126.5,183.5,1123.5,183.5,1119.5L183.5,1114.5C183.5,1110.5,186.5,1107.5,189.5,1107.5ZM189.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="190" 
+y="1122" 
+textLength="33" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>HDD</text>
+
+<path d="M252.5,1107.5L282.5,1107.5C285.5,1107.5,288.5,1110.5,288.5,1114.5L288.5,1119.5C288.5,1123.5,285.5,1126.5,282.5,1126.5L252.5,1126.5C248.5,1126.5,245.5,1123.5,245.5,1119.5L245.5,1114.5C245.5,1110.5,248.5,1107.5,252.5,1107.5ZM252.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="251" 
+y="1122" 
+textLength="29" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>SSD</text>
+
+<path d="M306.5,1108.5L329.5,1108.5C336.5,1108.5,342.5,1114.5,342.5,1121.5L342.5,1131.5C342.5,1138.5,336.5,1144.5,329.5,1144.5L306.5,1144.5C299.5,1144.5,293.5,1138.5,293.5,1131.5L293.5,1121.5C293.5,1114.5,299.5,1108.5,306.5,1108.5ZM306.5,1108.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="301" 
+y="1124" 
+textLength="32" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>DVD</text>
+
+<text 
+x="298" 
+y="1139" 
+textLength="37" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>drive</text>
+
+<path d="M832.5,1107.5L886.5,1107.5C893.5,1107.5,899.5,1113.5,899.5,1120.5L899.5,1131.5C899.5,1138.5,893.5,1144.5,886.5,1144.5L832.5,1144.5C825.5,1144.5,819.5,1138.5,819.5,1131.5L819.5,1120.5C819.5,1113.5,825.5,1107.5,832.5,1107.5ZM832.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="834" 
+y="1123" 
+textLength="48" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Micron</text>
+
+<text 
+x="823" 
+y="1138" 
+textLength="71" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>PCIe Card</text>
+
+<path d="M673.5,1107.5L727.5,1107.5C734.5,1107.5,739.5,1113.5,739.5,1120.5L739.5,1131.5C739.5,1138.5,734.5,1144.5,727.5,1144.5L673.5,1144.5C665.5,1144.5,660.5,1138.5,660.5,1131.5L660.5,1120.5C660.5,1113.5,665.5,1107.5,673.5,1107.5ZM673.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="666" 
+y="1124" 
+textLength="65" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Fusion-io</text>
+
+<text 
+x="663" 
+y="1138" 
+textLength="71" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>PCIe Card</text>
+
+<path d="M361.5,1107.5L384.5,1107.5C392.5,1107.5,397.5,1113.5,397.5,1120.5L397.5,1131.5C397.5,1138.5,392.5,1144.5,384.5,1144.5L361.5,1144.5C354.5,1144.5,348.5,1138.5,348.5,1131.5L348.5,1120.5C348.5,1113.5,354.5,1107.5,361.5,1107.5ZM361.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="361" 
+y="1124" 
+textLength="21" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>LSI</text>
+
+<text 
+x="354" 
+y="1138" 
+textLength="35" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>RAID</text>
+
+<path d="M422.5,1107.5L470.5,1107.5C477.5,1107.5,483.5,1113.5,483.5,1120.5L483.5,1131.5C483.5,1138.5,477.5,1144.5,470.5,1144.5L422.5,1144.5C415.5,1144.5,409.5,1138.5,409.5,1131.5L409.5,1120.5C409.5,1113.5,415.5,1107.5,422.5,1107.5ZM422.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="416" 
+y="1124" 
+textLength="60" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Adaptec</text>
+
+<text 
+x="428" 
+y="1138" 
+textLength="35" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>RAID</text>
+
+<path d="M508.5,1107.5L537.5,1107.5C544.5,1107.5,550.5,1113.5,550.5,1120.5L550.5,1131.5C550.5,1138.5,544.5,1144.5,537.5,1144.5L508.5,1144.5C501.5,1144.5,495.5,1138.5,495.5,1131.5L495.5,1120.5C495.5,1113.5,501.5,1107.5,508.5,1107.5ZM508.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="499" 
+y="1124" 
+textLength="45" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Qlogic</text>
+
+<text 
+x="506" 
+y="1139" 
+textLength="31" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>HBA</text>
+
+<path d="M570.5,1107.5L606.5,1107.5C613.5,1107.5,618.5,1113.5,618.5,1120.5L618.5,1131.5C618.5,1138.5,613.5,1144.5,606.5,1144.5L570.5,1144.5C563.5,1144.5,557.5,1138.5,557.5,1131.5L557.5,1120.5C557.5,1113.5,563.5,1107.5,570.5,1107.5ZM570.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="560" 
+y="1124" 
+textLength="54" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Emulex</text>
+
+<text 
+x="571" 
+y="1138" 
+textLength="31" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>HBA</text>
+
+<path d="M642.5,1107.5C649.5,1107.5,655.5,1113.5,655.5,1120.5L655.5,1131.5C655.5,1138.5,649.5,1144.5,642.5,1144.5C636.5,1144.5,630.5,1138.5,630.5,1131.5L630.5,1120.5C630.5,1113.5,636.5,1107.5,642.5,1107.5ZM642.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="632" 
+y="1127" 
+textLength="18" 
+font-size="19.56" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M843,356L843,491L556,491" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M568,491L573,486L556,491L573,496ZM568,491" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="730" 
+y="122" 
+textLength="40" 
+font-size="12.22" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>malloc</text>
+
+<path d="M343,191L343,117L343,191Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M343.5,176.5L338.5,171.5L343.5,191.5L349.5,171.5ZM343.5,176.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+transform="matrix(0, -1, 1, 0, 333, 181)"
+textLength="54" 
+font-size="15.28" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>read(2)</text>
+
+<path d="M392,191L392,117L392,191Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M392.5,176.5L387.5,171.5L392.5,191.5L398.5,171.5ZM392.5,176.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+transform="matrix(0, -1, 1, 0, 382, 183)"
+textLength="57" 
+font-size="15.28" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>write(2)</text>
+
+<path d="M441,191L441,117L441,191Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M441.5,176.5L436.5,171.5L441.5,191.5L447.5,171.5ZM441.5,176.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+transform="matrix(0, -1, 1, 0, 431, 183)"
+textLength="57" 
+font-size="15.28" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>open(2)</text>
+
+<path d="M490,191L490,117L490,191Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M490.5,176.5L485.5,171.5L490.5,191.5L496.5,171.5ZM490.5,176.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+transform="matrix(0, -1, 1, 0, 480, 178)"
+textLength="49" 
+font-size="15.28" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>stat(2)</text>
+
+<path d="M539,191L539,117L539,191Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M539.5,176.5L533.5,171.5L539.5,191.5L545.5,171.5ZM539.5,176.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+transform="matrix(0, -1, 1, 0, 528, 189)"
+textLength="70" 
+font-size="15.28" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>chmod(2)</text>
+
+<path d="M588,191L588,117L588,191Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M588.5,176.5L582.5,171.5L588.5,191.5L594.5,171.5ZM588.5,176.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+transform="matrix(0, -1, 1, 0, 574, 160)"
+textLength="14" 
+font-size="15.28" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<text 
+x="648" 
+y="479" 
+textLength="114" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>BIOs (Block I/O)</text>
+
+<text 
+x="79" 
+y="844" 
+textLength="36" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>sysfs</text>
+
+<text 
+x="20" 
+y="859" 
+textLength="155" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>(transport attributes)</text>
+
+<path d="M446.5,765.5L496.5,765.5C500.5,765.5,504.5,769.5,504.5,774.5L504.5,781.5C504.5,786.5,500.5,790.5,496.5,790.5L446.5,790.5C441.5,790.5,437.5,786.5,437.5,781.5L437.5,774.5C437.5,769.5,441.5,765.5,446.5,765.5ZM446.5,765.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="439" 
+y="782" 
+textLength="62" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/vd*</text>
+
+<path d="M206,741L407,741C409,741,410,742,410,744L410,805C410,806,409,808,407,808L206,808C204,808,202,806,202,805L202,744C202,742,204,741,206,741ZM206,741" fill="#CCCCCC" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="234" 
+y="761" 
+textLength="142" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>SCSI upper layer</text>
+
+<path d="M217.5,777.5L273.5,777.5C278.5,777.5,282.5,781.5,282.5,786.5L282.5,793.5C282.5,798.5,278.5,802.5,273.5,802.5L217.5,802.5C212.5,802.5,208.5,798.5,208.5,793.5L208.5,786.5C208.5,781.5,212.5,777.5,217.5,777.5ZM217.5,777.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="214" 
+y="794" 
+textLength="62" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/sda</text>
+
+<path d="M376.5,777.5L395.5,777.5C400.5,777.5,404.5,781.5,404.5,786.5L404.5,793.5C404.5,798.5,400.5,802.5,395.5,802.5L376.5,802.5C371.5,802.5,367.5,798.5,367.5,793.5L367.5,786.5C367.5,781.5,371.5,777.5,376.5,777.5ZM376.5,777.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="378" 
+y="790" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M296.5,777.5L353.5,777.5C357.5,777.5,361.5,781.5,361.5,786.5L361.5,793.5C361.5,798.5,357.5,802.5,353.5,802.5L296.5,802.5C292.5,802.5,288.5,798.5,288.5,793.5L288.5,786.5C288.5,781.5,292.5,777.5,296.5,777.5ZM296.5,777.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="293" 
+y="794" 
+textLength="63" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/sdb</text>
+
+<path d="M554.5,765.5L605.5,765.5C609.5,765.5,613.5,769.5,613.5,774.5L613.5,781.5C613.5,786.5,609.5,790.5,605.5,790.5L554.5,790.5C550.5,790.5,546.5,786.5,546.5,781.5L546.5,774.5C546.5,769.5,550.5,765.5,554.5,765.5ZM554.5,765.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="548" 
+y="782" 
+textLength="62" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/¡o*</text>
+
+<path d="M104,759L104,777L202,777" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M189,777L185,782L202,777L185,772ZM189,777" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M207.5,941.5L661.5,941.5C664.5,941.5,666.5,943.5,666.5,946.5L666.5,1041.5C666.5,1044.5,664.5,1046.5,661.5,1046.5L207.5,1046.5C204.5,1046.5,202.5,1044.5,202.5,1041.5L202.5,946.5C202.5,943.5,204.5,941.5,207.5,941.5ZM207.5,941.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="369" 
+y="959" 
+textLength="121" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>SCSI low layer</text>
+
+<path d="M313.5,967.5L403.5,967.5C407.5,967.5,409.5,970.5,409.5,973.5L409.5,979.5C409.5,982.5,407.5,985.5,403.5,985.5L313.5,985.5C309.5,985.5,307.5,982.5,307.5,979.5L307.5,973.5C307.5,970.5,309.5,967.5,313.5,967.5ZM313.5,967.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="308" 
+y="980" 
+textLength="98" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>megaraid sas</text>
+
+<path d="M428.5,967.5L470.5,967.5C474.5,967.5,477.5,970.5,477.5,973.5L477.5,979.5C477.5,982.5,474.5,985.5,470.5,985.5L428.5,985.5C425.5,985.5,422.5,982.5,422.5,979.5L422.5,973.5C422.5,970.5,425.5,967.5,428.5,967.5ZM428.5,967.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="422" 
+y="981" 
+textLength="54" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>aacraid</text>
+
+<path d="M495.5,967.5L547.5,967.5C550.5,967.5,553.5,970.5,553.5,973.5L553.5,979.5C553.5,982.5,550.5,985.5,547.5,985.5L495.5,985.5C492.5,985.5,489.5,982.5,489.5,979.5L489.5,973.5C489.5,970.5,492.5,967.5,495.5,967.5ZM495.5,967.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="491" 
+y="980" 
+textLength="57" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>qla2xxx</text>
+
+<path d="M643.5,1001.5L654.5,1001.5C658.5,1001.5,661.5,1004.5,661.5,1007.5L661.5,1013.5C661.5,1016.5,658.5,1019.5,654.5,1019.5L643.5,1019.5C639.5,1019.5,637.5,1016.5,637.5,1013.5L637.5,1007.5C637.5,1004.5,639.5,1001.5,643.5,1001.5ZM643.5,1001.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="641" 
+y="1011" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M252.5,967.5L288.5,967.5C291.5,967.5,294.5,970.5,294.5,973.5L294.5,979.5C294.5,982.5,291.5,985.5,288.5,985.5L252.5,985.5C248.5,985.5,245.5,982.5,245.5,979.5L245.5,973.5C245.5,970.5,248.5,967.5,252.5,967.5ZM252.5,967.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="248" 
+y="981" 
+textLength="41" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>libata</text>
+
+<path d="M219.5,1004.5L344.5,1004.5C350.5,1004.5,354.5,1008.5,354.5,1014.5L354.5,1024.5C354.5,1029.5,350.5,1034.5,344.5,1034.5L219.5,1034.5C213.5,1034.5,208.5,1029.5,208.5,1024.5L208.5,1014.5C208.5,1008.5,213.5,1004.5,219.5,1004.5ZM219.5,1004.5" fill="#F2F2F2" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M220.5,1010.5L244.5,1010.5C248.5,1010.5,251.5,1013.5,251.5,1016.5L251.5,1022.5C251.5,1025.5,248.5,1028.5,244.5,1028.5L220.5,1028.5C217.5,1028.5,214.5,1025.5,214.5,1022.5L214.5,1016.5C214.5,1013.5,217.5,1010.5,220.5,1010.5ZM220.5,1010.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="217" 
+y="1024" 
+textLength="30" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ahci</text>
+
+<path d="M263.5,1010.5L311.5,1010.5C315.5,1010.5,318.5,1012.5,318.5,1016.5L318.5,1021.5C318.5,1025.5,315.5,1028.5,311.5,1028.5L263.5,1028.5C260.5,1028.5,257.5,1025.5,257.5,1021.5L257.5,1016.5C257.5,1012.5,260.5,1010.5,263.5,1010.5ZM263.5,1010.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="258" 
+y="1023" 
+textLength="57" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ata_piix</text>
+
+<path d="M330.5,1010.5L342.5,1010.5C345.5,1010.5,348.5,1013.5,348.5,1016.5L348.5,1022.5C348.5,1025.5,345.5,1028.5,342.5,1028.5L330.5,1028.5C327.5,1028.5,324.5,1025.5,324.5,1022.5L324.5,1016.5C324.5,1013.5,327.5,1010.5,330.5,1010.5ZM330.5,1010.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="329" 
+y="1020" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M569.5,967.5L586.5,967.5C590.5,967.5,593.5,970.5,593.5,973.5L593.5,979.5C593.5,982.5,590.5,985.5,586.5,985.5L569.5,985.5C565.5,985.5,562.5,982.5,562.5,979.5L562.5,973.5C562.5,970.5,565.5,967.5,569.5,967.5ZM569.5,967.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="563" 
+y="980" 
+textLength="26" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>lpfc</text>
+
+<path d="M12.5,888.5L185.5,888.5C188.5,888.5,190.5,890.5,190.5,893.5L190.5,981.5C190.5,983.5,188.5,986.5,185.5,986.5L12.5,986.5C9.5,986.5,7.5,983.5,7.5,981.5L7.5,893.5C7.5,890.5,9.5,888.5,12.5,888.5ZM12.5,888.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="16" 
+y="906" 
+textLength="150" 
+font-size="17.11" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Transport Classes</text>
+
+<path d="M19.5,912.5L135.5,912.5C138.5,912.5,141.5,915.5,141.5,919.5L141.5,924.5C141.5,928.5,138.5,930.5,135.5,930.5L19.5,930.5C16.5,930.5,13.5,928.5,13.5,924.5L13.5,919.5C13.5,915.5,16.5,912.5,19.5,912.5ZM19.5,912.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="15" 
+y="925" 
+textLength="123" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>scsi_transport_fc</text>
+
+<path d="M38.5,937.5L159.5,937.5C163.5,937.5,166.5,940.5,166.5,943.5L166.5,949.5C166.5,952.5,163.5,955.5,159.5,955.5L38.5,955.5C34.5,955.5,31.5,952.5,31.5,949.5L31.5,943.5C31.5,940.5,34.5,937.5,38.5,937.5ZM38.5,937.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="31" 
+y="950" 
+textLength="134" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>scsi_transport_sas</text>
+
+<path d="M56.5,961.5L177.5,961.5C181.5,961.5,184.5,964.5,184.5,968.5L184.5,973.5C184.5,977.5,181.5,980.5,177.5,980.5L56.5,980.5C52.5,980.5,49.5,977.5,49.5,973.5L49.5,968.5C49.5,964.5,52.5,961.5,56.5,961.5ZM56.5,961.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="55" 
+y="974" 
+textLength="123" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>scsi_transport_...</text>
+
+<path d="M98,887L98,863L98,887Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M98.5,875.5L103.5,880.5L98.5,863.5L93.5,880.5ZM98.5,875.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M98,985L98,1010L202,1010" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M98.5,997.5L103.5,1002.5L98.5,985.5L93.5,1002.5ZM98.5,997.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M189,1010L185,1014L202,1010L185,1005ZM189,1010" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M269,985L269,1003M2,0" fill="none" stroke-width="2" stroke-miterlimit="2.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M269.5,999.5L266.5,996.5L269.5,1005.5L271.5,996.5ZM269.5,999.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M886,765L886,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M886.5,1095.5L881.5,1090.5L886.5,1107.5L891.5,1090.5ZM886.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M581,790L581,851M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M581.5,838.5L576.5,834.5L581.5,851.5L585.5,834.5ZM581.5,838.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M471,851L471,790L471,851Z" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M471.5,838.5L466.5,834.5L471.5,851.5L475.5,834.5ZM471.5,838.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M299,808L299,851M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M299.5,838.5L295.5,834.5L299.5,851.5L304.5,834.5ZM299.5,838.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M299,881L299,941M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M299.5,930.5L295.5,925.5L299.5,941.5L304.5,925.5ZM299.5,930.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M269,1034L318,1107" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M311.5,1097.5L304.5,1096.5L318.5,1107.5L312.5,1090.5ZM311.5,1097.5" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M269,1034L208,1107" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M216.5,1098.5L215.5,1091.5L208.5,1107.5L223.5,1097.5ZM216.5,1098.5" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M269,1034L269,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M269.5,1095.5L264.5,1090.5L269.5,1107.5L274.5,1090.5ZM269.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M373,985L373,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M373.5,1095.5L368.5,1090.5L373.5,1107.5L378.5,1090.5ZM373.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M446,985L446,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M446.5,1095.5L441.5,1090.5L446.5,1107.5L451.5,1090.5ZM446.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M519,985L519,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M519.5,1095.5L515.5,1090.5L519.5,1107.5L524.5,1090.5ZM519.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M581,985L581,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M581.5,1095.5L576.5,1090.5L581.5,1107.5L585.5,1090.5ZM581.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M299,673L299,741M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M299.5,728.5L295.5,724.5L299.5,741.5L304.5,724.5ZM299.5,728.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M385,673L471,673L471,765" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M471.5,752.5L466.5,747.5L471.5,765.5L476.5,747.5ZM471.5,752.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M464,673L581,673L581,765" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M581.5,753.5L576.5,748.5L581.5,765.5L585.5,748.5ZM581.5,753.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M385,497L385,551M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M385.5,539.5L380.5,534.5L385.5,551.5L390.5,534.5ZM385.5,539.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M385.5,521.5L770.5,521.5L770.5,654.5" fill="none" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M770.5,644.5L766.5,640.5L770.5,654.5L774.5,640.5ZM770.5,644.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M385,631L385,673L104,673L104,704" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M104.5,692.5L99.5,687.5L104.5,704.5L109.5,687.5ZM104.5,692.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M657.5,722.5L707.5,722.5C711.5,722.5,715.5,726.5,715.5,731.5L715.5,738.5C715.5,743.5,711.5,747.5,707.5,747.5L657.5,747.5C652.5,747.5,648.5,743.5,648.5,738.5L648.5,731.5C648.5,726.5,652.5,722.5,657.5,722.5ZM657.5,722.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="650" 
+y="739" 
+textLength="62" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/¡o*</text>
+
+<path d="M718,795L817,795C822,795,826,799,826,804L826,811C826,816,822,820,817,820L718,820C713,820,710,816,710,811L710,804C710,799,713,795,718,795ZM718,795" fill="#27B5FF" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="712" 
+y="812" 
+textLength="111" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/nvme#n#</text>
+
+<path d="M835.5,747.5L895.5,747.5C899.5,747.5,901.5,750.5,901.5,753.5L901.5,759.5C901.5,762.5,899.5,765.5,895.5,765.5L835.5,765.5C831.5,765.5,828.5,762.5,828.5,759.5L828.5,753.5C828.5,750.5,831.5,747.5,835.5,747.5ZM835.5,747.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="829" 
+y="760" 
+textLength="69" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>mtip32xx</text>
+
+<path d="M834.5,722.5L896.5,722.5C901.5,722.5,904.5,726.5,904.5,731.5L904.5,738.5C904.5,743.5,901.5,747.5,896.5,747.5L834.5,747.5C829.5,747.5,825.5,743.5,825.5,738.5L825.5,731.5C825.5,726.5,829.5,722.5,834.5,722.5ZM834.5,722.5" fill="#27B5FF" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="827" 
+y="739" 
+textLength="74" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>/dev/rssd*</text>
+
+<path d="M684,777L684,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M684.5,1095.5L680.5,1090.5L684.5,1107.5L689.5,1090.5ZM684.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M581,875L581,900L684,900" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M81,356L81,491L208,491" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M196,491L191,496L208,491L191,487ZM196,491" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M190.5,215.5L464.5,215.5C468.5,215.5,471.5,218.5,471.5,222.5L471.5,337.5C471.5,340.5,468.5,343.5,464.5,343.5L190.5,343.5C186.5,343.5,183.5,340.5,183.5,337.5L183.5,222.5C183.5,218.5,186.5,215.5,190.5,215.5ZM190.5,215.5" fill="#F9F9F9" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M201.5,227.5L337.5,227.5C340.5,227.5,343.5,230.5,343.5,233.5L343.5,326.5C343.5,329.5,340.5,331.5,337.5,331.5L201.5,331.5C198.5,331.5,196.5,329.5,196.5,326.5L196.5,233.5C196.5,230.5,198.5,227.5,201.5,227.5ZM201.5,227.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="205" 
+y="244" 
+textLength="109" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>block based FS</text>
+
+<path d="M206.5,248.5L230.5,248.5C233.5,248.5,236.5,251.5,236.5,255.5L236.5,260.5C236.5,264.5,233.5,267.5,230.5,267.5L206.5,267.5C202.5,267.5,199.5,264.5,199.5,260.5L199.5,255.5C199.5,251.5,202.5,248.5,206.5,248.5ZM206.5,248.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="202" 
+y="262" 
+textLength="32" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ext2</text>
+
+<path d="M248.5,248.5L272.5,248.5C276.5,248.5,278.5,251.5,278.5,255.5L278.5,260.5C278.5,264.5,276.5,266.5,272.5,266.5L248.5,266.5C245.5,266.5,242.5,264.5,242.5,260.5L242.5,255.5C242.5,251.5,245.5,248.5,248.5,248.5ZM248.5,248.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="243" 
+y="263" 
+textLength="32" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ext3</text>
+
+<path d="M249.5,270.5L278.5,270.5C282.5,270.5,285.5,273.5,285.5,277.5L285.5,282.5C285.5,286.5,282.5,289.5,278.5,289.5L249.5,289.5C245.5,289.5,242.5,286.5,242.5,282.5L242.5,277.5C242.5,273.5,245.5,270.5,249.5,270.5ZM249.5,270.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="246" 
+y="285" 
+textLength="33" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>btrfs</text>
+
+<path d="M291.5,248.5L315.5,248.5C319.5,248.5,321.5,251.5,321.5,255.5L321.5,260.5C321.5,264.5,319.5,267.5,315.5,267.5L291.5,267.5C288.5,267.5,285.5,264.5,285.5,260.5L285.5,255.5C285.5,251.5,288.5,248.5,291.5,248.5ZM291.5,248.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="286" 
+y="263" 
+textLength="32" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ext4</text>
+
+<path d="M206.5,270.5L230.5,270.5C233.5,270.5,236.5,273.5,236.5,276.5L236.5,282.5C236.5,285.5,233.5,288.5,230.5,288.5L206.5,288.5C202.5,288.5,199.5,285.5,199.5,282.5L199.5,276.5C199.5,273.5,202.5,270.5,206.5,270.5ZM206.5,270.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="206" 
+y="285" 
+textLength="21" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>xfs</text>
+
+<path d="M298.5,270.5L321.5,270.5C325.5,270.5,328.5,273.5,328.5,277.5L328.5,282.5C328.5,286.5,325.5,289.5,321.5,289.5L298.5,289.5C294.5,289.5,291.5,286.5,291.5,282.5L291.5,277.5C291.5,273.5,294.5,270.5,298.5,270.5ZM298.5,270.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="300" 
+y="285" 
+textLength="16" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ifs</text>
+
+<path d="M206.5,292.5L248.5,292.5C251.5,292.5,254.5,295.5,254.5,298.5L254.5,304.5C254.5,307.5,251.5,310.5,248.5,310.5L206.5,310.5C202.5,310.5,199.5,307.5,199.5,304.5L199.5,298.5C199.5,295.5,202.5,292.5,206.5,292.5ZM206.5,292.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="202" 
+y="306" 
+textLength="48" 
+font-size="12.22" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>iso9660</text>
+
+<path d="M258.5,312.5L276.5,312.5C280.5,312.5,282.5,314.5,282.5,318.5L282.5,323.5C282.5,327.5,280.5,330.5,276.5,330.5L258.5,330.5C255.5,330.5,252.5,327.5,252.5,323.5L252.5,318.5C252.5,314.5,255.5,312.5,258.5,312.5ZM258.5,312.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="260" 
+y="322" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M360.5,227.5L453.5,227.5C456.5,227.5,458.5,230.5,458.5,233.5L458.5,320.5C458.5,323.5,456.5,325.5,453.5,325.5L360.5,325.5C357.5,325.5,355.5,323.5,355.5,320.5L355.5,233.5C355.5,230.5,357.5,227.5,360.5,227.5ZM360.5,227.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M367.5,252.5L391.5,252.5C394.5,252.5,397.5,255.5,397.5,258.5L397.5,264.5C397.5,267.5,394.5,270.5,391.5,270.5L367.5,270.5C363.5,270.5,361.5,267.5,361.5,264.5L361.5,258.5C361.5,255.5,363.5,252.5,367.5,252.5ZM367.5,252.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="364" 
+y="266" 
+textLength="28" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>NFS</text>
+
+<path d="M416.5,252.5L440.5,252.5C443.5,252.5,446.5,255.5,446.5,258.5L446.5,264.5C446.5,267.5,443.5,270.5,440.5,270.5L416.5,270.5C412.5,270.5,410.5,267.5,410.5,264.5L410.5,258.5C410.5,255.5,412.5,252.5,416.5,252.5ZM416.5,252.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="410" 
+y="266" 
+textLength="35" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>coda</text>
+
+<text 
+x="358" 
+y="244" 
+textLength="83" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Network FS</text>
+
+<path d="M267.5,292.5L290.5,292.5C294.5,292.5,297.5,295.5,297.5,299.5L297.5,304.5C297.5,308.5,294.5,311.5,290.5,311.5L267.5,311.5C263.5,311.5,260.5,308.5,260.5,304.5L260.5,299.5C260.5,295.5,263.5,292.5,267.5,292.5ZM267.5,292.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="267" 
+y="305" 
+textLength="22" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>gfs</text>
+
+<path d="M307.5,292.5L331.5,292.5C335.5,292.5,338.5,295.5,338.5,299.5L338.5,304.5C338.5,308.5,335.5,311.5,331.5,311.5L307.5,311.5C304.5,311.5,301.5,308.5,301.5,304.5L301.5,299.5C301.5,295.5,304.5,292.5,307.5,292.5ZM307.5,292.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="304" 
+y="307" 
+textLength="29" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ocfs</text>
+
+<path d="M367.5,278.5L403.5,278.5C407.5,278.5,410.5,280.5,410.5,284.5L410.5,289.5C410.5,293.5,407.5,296.5,403.5,296.5L367.5,296.5C364.5,296.5,361.5,293.5,361.5,289.5L361.5,284.5C361.5,280.5,364.5,278.5,367.5,278.5ZM367.5,278.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="363" 
+y="292" 
+textLength="44" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>smbfs</text>
+
+<path d="M424.5,279.5L441.5,279.5C445.5,279.5,448.5,282.5,448.5,285.5L448.5,291.5C448.5,294.5,445.5,297.5,441.5,297.5L424.5,297.5C420.5,297.5,417.5,294.5,417.5,291.5L417.5,285.5C417.5,282.5,420.5,279.5,424.5,279.5ZM424.5,279.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="425" 
+y="289" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M489.5,215.5L751.5,215.5C755.5,215.5,758.5,218.5,758.5,222.5L758.5,331.5C758.5,334.5,755.5,337.5,751.5,337.5L489.5,337.5C486.5,337.5,483.5,334.5,483.5,331.5L483.5,222.5C483.5,218.5,486.5,215.5,489.5,215.5ZM489.5,215.5" fill="#F9F9F9" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path d="M500.5,227.5L612.5,227.5C615.5,227.5,617.5,230.5,617.5,233.5L617.5,320.5C617.5,323.5,615.5,325.5,612.5,325.5L500.5,325.5C497.5,325.5,495.5,323.5,495.5,320.5L495.5,233.5C495.5,230.5,497.5,227.5,500.5,227.5ZM500.5,227.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="504" 
+y="244" 
+textLength="75" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>pseudo FS</text>
+
+<path d="M635.5,227.5L741.5,227.5C743.5,227.5,746.5,230.5,746.5,233.5L746.5,320.5C746.5,323.5,743.5,325.5,741.5,325.5L635.5,325.5C632.5,325.5,630.5,323.5,630.5,320.5L630.5,233.5C630.5,230.5,632.5,227.5,635.5,227.5ZM635.5,227.5" fill="#CCCCCC" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="646" 
+y="242" 
+textLength="51" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>special</text>
+
+<text 
+x="631" 
+y="260" 
+textLength="81" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>purpose FS</text>
+
+<path d="M508.5,252.5L531.5,252.5C535.5,252.5,538.5,255.5,538.5,258.5L538.5,264.5C538.5,267.5,535.5,270.5,531.5,270.5L508.5,270.5C504.5,270.5,501.5,267.5,501.5,264.5L501.5,258.5C501.5,255.5,504.5,252.5,508.5,252.5ZM508.5,252.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="503" 
+y="263" 
+textLength="32" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>proc</text>
+
+<path d="M556.5,252.5L586.5,252.5C590.5,252.5,593.5,255.5,593.5,258.5L593.5,264.5C593.5,267.5,590.5,270.5,586.5,270.5L556.5,270.5C553.5,270.5,550.5,267.5,550.5,264.5L550.5,258.5C550.5,255.5,553.5,252.5,556.5,252.5ZM556.5,252.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="552" 
+y="265" 
+textLength="36" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>sysfs</text>
+
+<path d="M562.5,276.5L605.5,276.5C608.5,276.5,611.5,279.5,611.5,283.5L611.5,288.5C611.5,292.5,608.5,295.5,605.5,295.5L562.5,295.5C559.5,295.5,556.5,292.5,556.5,288.5L556.5,283.5C556.5,279.5,559.5,276.5,562.5,276.5ZM562.5,276.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="558" 
+y="291" 
+textLength="50" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>futexfs</text>
+
+<path d="M507.5,301.5L538.5,301.5C541.5,301.5,544.5,303.5,544.5,307.5L544.5,312.5C544.5,316.5,541.5,319.5,538.5,319.5L507.5,319.5C504.5,319.5,501.5,316.5,501.5,312.5L501.5,307.5C501.5,303.5,504.5,301.5,507.5,301.5ZM507.5,301.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="502" 
+y="315" 
+textLength="39" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>usbfs</text>
+
+<path d="M563.5,301.5L580.5,301.5C584.5,301.5,587.5,304.5,587.5,307.5L587.5,313.5C587.5,316.5,584.5,319.5,580.5,319.5L563.5,319.5C559.5,319.5,556.5,316.5,556.5,313.5L556.5,307.5C556.5,304.5,559.5,301.5,563.5,301.5ZM563.5,301.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="564" 
+y="311" 
+textLength="13" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>...</text>
+
+<path d="M642.5,271.5L678.5,271.5C682.5,271.5,684.5,273.5,684.5,277.5L684.5,283.5C684.5,286.5,682.5,289.5,678.5,289.5L642.5,289.5C639.5,289.5,636.5,286.5,636.5,283.5L636.5,277.5C636.5,273.5,639.5,271.5,642.5,271.5ZM642.5,271.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="639" 
+y="284" 
+textLength="42" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>tmpfs</text>
+
+<path d="M697.5,271.5L733.5,271.5C737.5,271.5,739.5,273.5,739.5,277.5L739.5,283.5C739.5,286.5,737.5,289.5,733.5,289.5L697.5,289.5C694.5,289.5,691.5,286.5,691.5,283.5L691.5,277.5C691.5,273.5,694.5,271.5,697.5,271.5ZM697.5,271.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="693" 
+y="285" 
+textLength="42" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>ramfs</text>
+
+<path d="M642.5,295.5L703.5,295.5C706.5,295.5,709.5,298.5,709.5,301.5L709.5,307.5C709.5,311.5,706.5,313.5,703.5,313.5L642.5,313.5C638.5,313.5,636.5,311.5,636.5,307.5L636.5,301.5C636.5,298.5,638.5,295.5,642.5,295.5ZM642.5,295.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="637" 
+y="308" 
+textLength="69" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>devtmpfs</text>
+
+<path d="M508.5,276.5L544.5,276.5C547.5,276.5,550.5,279.5,550.5,283.5L550.5,288.5C550.5,292.5,547.5,295.5,544.5,295.5L508.5,295.5C504.5,295.5,501.5,292.5,501.5,288.5L501.5,283.5C501.5,279.5,504.5,276.5,508.5,276.5ZM508.5,276.5" fill="#00C100" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="503" 
+y="289" 
+textLength="44" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>pipefs</text>
+
+<path d="M403,325L403,368L446,368" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M434,368L429,373L446,368L429,363ZM434,368" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="448" 
+y="371" 
+textLength="59" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>network</text>
+
+<path d="M765.5,1107.5L794.5,1107.5C801.5,1107.5,807.5,1113.5,807.5,1120.5L807.5,1131.5C807.5,1138.5,801.5,1144.5,794.5,1144.5L765.5,1144.5C758.5,1144.5,752.5,1138.5,752.5,1131.5L752.5,1120.5C752.5,1113.5,758.5,1107.5,765.5,1107.5ZM765.5,1107.5" fill="#00DBF1" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="758" 
+y="1122" 
+textLength="41" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>nvme</text>
+
+<text 
+x="755" 
+y="1137" 
+textLength="48" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>device</text>
+
+<path d="M770,838L770,1107M2,0" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M770.5,1095.5L765.5,1090.5L770.5,1107.5L775.5,1090.5ZM770.5,1095.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="211" 
+y="38" 
+textLength="489" 
+font-size="34.22" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>The Linux I/O Stack Diagram</text>
+
+<text 
+x="368" 
+y="56" 
+textLength="176" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>version 1.0, 2012-06-20</text>
+
+<text 
+x="267" 
+y="71" 
+textLength="377" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>outlines the Linux I/O stack as of Kernel version 3.3</text>
+
+<path d="M147,267L171,267L171,279L147,279L147,267Z" />
+<path d="M715,100L849,100L849,192" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M849.5,180.5L845.5,175.5L849.5,192.5L854.5,175.5ZM849.5,180.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="729" 
+y="84" 
+textLength="39" 
+font-size="12.22" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>mmap</text>
+
+<text 
+x="729" 
+y="97" 
+textLength="121" 
+font-size="12.22" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>(anonymous pages)</text>
+
+<path d="M220,461L159,461L159,369L257,369L257,412" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M257.5,400.5L252.5,395.5L257.5,412.5L262.5,395.5ZM257.5,400.5" stroke-width="0" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="161" 
+y="381" 
+textLength="70" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>stackable</text>
+
+<path d="M603.5,968.5L657.5,968.5C661.5,968.5,664.5,971.5,664.5,974.5L664.5,980.5C664.5,983.5,661.5,986.5,657.5,986.5L603.5,986.5C600.5,986.5,597.5,983.5,597.5,980.5L597.5,974.5C597.5,971.5,600.5,968.5,603.5,968.5ZM603.5,968.5" fill="#FF7F2A" stroke-width="1" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="598" 
+y="981" 
+textLength="61" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>iscsi_tcp</text>
+
+<path d="M605,986L605,1066L629,1066" fill="none" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<path fill-rule="evenodd" d="M617,1066L612,1071L629,1066L612,1061ZM617,1066" stroke-width="2" stroke-miterlimit="4.0" stroke-linecap="butt" stroke-linejoin="miter" stroke="#000000"/>
+<text 
+x="617" 
+y="1078" 
+textLength="59" 
+font-size="14.67" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>network</text>
+
+<text 
+x="13" 
+y="1230" 
+font-size="12" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>The Linux I/O Stack Diagram (version 1.0, 2012-06-20)</text>
+
+<text 
+x="13" 
+y="1245" 
+font-size="12" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>
+<a xlink:href="http://www.thomas-krenn.com/en/oss/linux-io-stack-diagram.html" target="_blank">
+http://www.thomas-krenn.com/en/oss/linux-io-stack-diagram.html
+</a>
+</text>
+
+<text 
+x="13" 
+y="1260" 
+font-size="12" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>Created by Werner Fischer and Georg Schönberger</text>
+
+<text 
+x="13" 
+y="1275" 
+font-size="12" 
+font-family="JKWBNK-DejaVuSans1" 
+fill="#000000" 
+>License: CC-BY-SA 3.0, see 
+<a xlink:href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">
+http://creativecommons.org/licenses/by-sa/3.0/</a>
+</text>
+
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: JKWBNK-DejaVuSans1;
+	src :url("/assets/fonts/DejaVuSans.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
+
+</svg>

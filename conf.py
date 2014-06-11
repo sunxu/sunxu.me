@@ -27,9 +27,10 @@ NAVIGATION_LINKS = {
         ('/index.html', 'Home', 'icon-home'),
         ('/posts', 'Archives', 'icon-folder-open-alt'),
         ('/tags', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('/stories/bookmark', 'Bookmark', 'icon-bookmark-empty'),
         ('/stories/about', 'About me', 'icon-user'),
         ('https://github.com/sunxu', 'My Github', 'icon-github'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
     ),
 }
 

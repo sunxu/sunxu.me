@@ -1,2 +1,2 @@
-$('.body a').attr('target','_blank');
+$('.page-content a').attr('target','_blank');
 

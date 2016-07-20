@@ -25,6 +25,9 @@
 # Tar files
 *.tar*
 
+# python virtual env
+nikola
+
 # Tmp files
 .doit.db.db
 .doit.db
